@@ -27,7 +27,7 @@
           ];
 
           shellHook = ''
-            echo "Make build to build, make run to run"
+            echo "make build to build, make run to run"
           '';
         };
   };
